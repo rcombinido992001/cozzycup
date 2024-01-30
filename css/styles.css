@@ -143,3 +143,8 @@ footer {
 .des {
   text-align: center;
 }
+
+table {
+  display: flex;
+  justify-content: center;
+}
