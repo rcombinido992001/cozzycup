@@ -46,7 +46,7 @@ Olivia, a visionary in the realm of culinary arts, channels her profound passion
 Richo- Co-founder and Design Maestro at Rich Kapehan:
 The creative spirit shaping the ambiance of Rich Kapehan, I, Richo Combinido, infuse our space with warmth and distinctive character. With a passion for design, my keen eye transforms the coffee shop into a haven of tranquility, inviting patrons to linger, connect, and truly savor each moment. My commitment to aesthetic precision ensures that every visit to Rich Kapehan is not just a coffee experience but a visual and tactile delight. From the carefully chosen decor to the layout that fosters a sense of community, my dedication to creating a welcoming and visually pleasing environment enhances the overall richness of your coffee journey at Rich Kapehan.
 
-![Rich Kapehan](img/home.png)
+![Rich Kapehan](img/rich_kapehan.png)
 ![Rich Kapehan](img/logo.png)
 
 ## Contact Us
