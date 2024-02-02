@@ -32,22 +32,22 @@ Welcome to Rich "Kapehan", a haven where every cup is brewed with warmth and ser
 
 ## About the Authors
 
-<a href="https://github.com/rcombinido992001">
+<a href="https://github.com/Rtimones">
     <img src="img/mack.jpg" alt="Image 1" width="150" style="border-radius: 50%;">
 </a>
 
 Remark Timonez -Founder and Culinary Curator of Rich Kapehan:
 Olivia, a visionary in the realm of culinary arts, channels her profound passion for flavors and aesthetics into the heart of Rich Kapehan. With a robust background in culinary design, she takes the helm in curating the café's delightful menu, meticulously ensuring that each dish narrates a tale of unparalleled quality and creative finesse. Olivia's unwavering commitment to creating a sensory journey is palpable in every bite, making Rich Kapehan not just a coffee shop but a sanctuary for gastronomic bliss. The fusion of her culinary expertise and dedication transforms each visit into a harmonious experience, inviting patrons to savor the richness of flavors and the artistry infused into every dish at Rich Kapehan.
 
-<a href="https://github.com/drexz15">
-    <img src="img/drex.jpg" alt="Image 1" width="150" style="border-radius: 50%;">
+<a href="https://github.com/rcombinido992001">
+    <img src="img/profile.jpg" alt="Image 1" width="150" height="145" style="border-radius: 50%;">
 </a>
 
 Richo- Co-founder and Design Maestro at Rich Kapehan:
 The creative spirit shaping the ambiance of Rich Kapehan, I, Richo Combinido, infuse our space with warmth and distinctive character. With a passion for design, my keen eye transforms the coffee shop into a haven of tranquility, inviting patrons to linger, connect, and truly savor each moment. My commitment to aesthetic precision ensures that every visit to Rich Kapehan is not just a coffee experience but a visual and tactile delight. From the carefully chosen decor to the layout that fosters a sense of community, my dedication to creating a welcoming and visually pleasing environment enhances the overall richness of your coffee journey at Rich Kapehan.
 
-![Kapehan ni Bogart Authors](img/drexz.jpg)
-![Kapehan ni Bogart Authors](img/remark.jpg)
+![Rich Kapehan](img/Rich_kapehan.png)
+![Rich Kapehan](img/logo.png)
 
 ## Contact Us
 
@@ -77,6 +77,6 @@ Connect with us on our social media:
 
 **Richo Combinido**
 
-[![Facebook](img/Facebook.png)](https://www.facebook.com/drexzelpaul.lambon?mibextid=LQQJ4d)
+[![Facebook](img/Facebook.png)](https://web.facebook.com/ochir.odinibmoc092001)
 
-[![Github](img/Github.png)](https://github.com/drexz15)
+[![Github](img/Github.png)](https://github.com/rcombinido992001)
