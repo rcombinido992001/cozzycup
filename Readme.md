@@ -65,7 +65,7 @@ For more details, visit the [Contact Section](#contact-us)
 
 --- 
 
-***&copy; 2023 Kapehan ni Bogart. All Rights Reserved.**
+***&copy; 2023 Rich Kapehan. All Rights Reserved.**
 
 Connect with us on our social media:
 
