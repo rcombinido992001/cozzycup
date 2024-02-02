@@ -26,7 +26,7 @@ Welcome to Rich "Kapehan", a haven where every cup is brewed with warmth and ser
 
 ![Rich Kapehan](img/home.png)
 
-![Rich Kapehan](img/menu.png)
+![Rich Kapehan](img/Menu.png)
 
 ![Rich Kapehan](img/about_us.png)
 
