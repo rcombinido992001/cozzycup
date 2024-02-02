@@ -20,7 +20,7 @@ Embrace the richness of life at Rich Kapehan, where every cup is a celebration o
 
 ## Screen Captures
 
-![Rich Kapehan](img/Rich_Kapehan.png)
+![Rich Kapehan](img/kapehan.png)
 
 Welcome to Rich "Kapehan", a haven where every cup is brewed with warmth and served with genuine smiles. As you step through our doors, the inviting aroma of freshly ground coffee beans wraps around you, inviting you to immerse yourself in a world of rich flavors and delightful moments. Our coffee shop is more than just a space; it's a community where friends meet, and connections are forged over velvety espressos, creamy lattes, and an array of meticulously crafted brews. Take a seat, unwind, and indulge in the artistry of our skilled baristas as they transform each cup into a celebration of taste and quality. Here at Rich Kapehan, the welcome is as comforting as our coffee, and every visit promises a journey into the heart of warmth, conversation, and the joy found in the simple pleasures of life. Cheers to making lasting memories and savoring the richness of each moment at Rich Kapehan.
 
@@ -33,7 +33,7 @@ Welcome to Rich "Kapehan", a haven where every cup is brewed with warmth and ser
 ## About the Authors
 
 <a href="https://github.com/Rtimones">
-    <img src="img/mack.jpg" alt="Image 1" width="150" style="border-radius: 50%;">
+    <img src="img/remark.jpg" alt="Image 1" width="150" style="border-radius: 50%;">
 </a>
 
 Remark Timonez -Founder and Culinary Curator of Rich Kapehan:
